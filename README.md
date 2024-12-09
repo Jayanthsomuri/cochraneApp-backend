@@ -82,4 +82,4 @@ This Cochrane Library Web Crawler efficiently gathers key metadata for reviews w
 
 ---
 
-**Author**: *Jayanth Somyuri*
+**Author**: *Jayanth Somuri*
